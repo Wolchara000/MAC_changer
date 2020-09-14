@@ -1,5 +1,4 @@
-# MAC_changer
-############### Simple MAC_CHANGER by Wolchara000 ###############
+# SIMPLE PYTHON MAC_changer
 
 Usage: MAC_changer.py [options]
 
