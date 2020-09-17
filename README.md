@@ -16,6 +16,6 @@ python3 MAC_changer.py -i eth0
 
 Just changes MAC address on interface you told to. Like Todd Howard says:'It just WORKS!'
 
-This is my first work on python. Not much, but it will do for the first time.
+This is my first work on python. Not much, but it will do for the first time. Works ONLY on Linux.
 
 "Hello World" )))
